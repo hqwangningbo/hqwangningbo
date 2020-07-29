@@ -1,4 +1,9 @@
 ### Hi there ，I'm Hq-WangNingBo👋
+一枚努力学习的本科大二学生，在毕业结束希望能够成为自己都羡慕的人！
+| 博客地址                                   | CSDN                                        | 知乎                                               | 简书                                               |
+| ------------------------------------------ | ------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
+| [点我直达](https://hqwangningbo.gitee.io/) | [点我直达](https://me.csdn.net/qq_45332753) | [点我直达](https://www.zhihu.com/people/twozhu-85) | [点我直达](https://www.zhihu.com/people/twozhu-85) |
+
 
 <!--
 **hqwangningbo/hqwangningbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
