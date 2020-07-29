@@ -4,6 +4,9 @@
 | ------------------------------------------ | ------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | [点我直达](https://hqwangningbo.gitee.io/) | [点我直达](https://me.csdn.net/qq_45332753) | [点我直达](https://www.zhihu.com/people/twozhu-85) | [点我直达](https://www.zhihu.com/people/twozhu-85) |
 
+### Languages and Tools:
+![](https://img.icons8.com/color/2x/java-coffee-cup-logo.png)![](https://img.icons8.com/color/2x/intellij-idea.png)![](https://img.icons8.com/color/2x/html-5.png)
+          ![](https://img.icons8.com/ios-filled/2x/css.png)![](https://img.icons8.com/color/2x/javascript-logo-1.png)![](https://img.icons8.com/ios/2x/jquery.png)
 
 <!--
 **hqwangningbo/hqwangningbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
