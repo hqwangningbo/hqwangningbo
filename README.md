@@ -1,4 +1,4 @@
-### Hi there ，I'm Hq-WangNingBo<a href="http://wangningbo.com//"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there ，I'm Hq-WangNingBo<a href="http://wangningbo.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 一枚努力学习的本科大三学生，在毕业结束希望能够成为自己都羡慕的人！
 | 博客地址                                   | CSDN                                        | 知乎                                               | 简书                                               |
 | ------------------------------------------ | ------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
