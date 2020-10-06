@@ -1,23 +1,20 @@
 ### Hi there ，I'm Hq-WangNingBo👋
-一枚努力学习的本科大二学生，在毕业结束希望能够成为自己都羡慕的人！
+一枚努力学习的本科大三学生，在毕业结束希望能够成为自己都羡慕的人！
 | 博客地址                                   | CSDN                                        | 知乎                                               | 简书                                               |
 | ------------------------------------------ | ------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | [点我直达](https://hqwangningbo.gitee.io/) | [点我直达](https://me.csdn.net/qq_45332753) | [点我直达](https://www.zhihu.com/people/twozhu-85) | [点我直达](https://www.zhihu.com/people/twozhu-85) |
 
-### Languages and Tools:
 
 
-<!--
-**hqwangningbo/hqwangningbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 座右铭
 
-Here are some ideas to get you started:
+1. 我有我要赶去的远方，哪怕风雨兼程披星戴月。
+2. 一棵树的树冠越是向往高处的太阳，它的跟越是得深入黑暗的地底。
+3. 你不能要求一个没有风暴的海洋。那不是海，是泥塘。
+4. 没有一个冬天不可跨越，也没有一个春天不会来临。
+5. 先努力让自己发光，对的人才能迎着光而来。
+6. 觉得为时已晚的时候恰恰是最早的时候。
+7. 你走的每一步，都藏着未来的影子。
+8. 要变优秀，堵住那悠悠众口。
+9. 那一天，我也曾看到花团锦簇。那一夜，我也曾梦见百万雄兵。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
