@@ -1,4 +1,4 @@
-### Hi there ，I'm Hq-WangNingBo<a href="http://wangningbo.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> ![](https://komarev.com/ghpvc/?username=hqwangningbo&style=flat-square&color=brightgreen)
+### Hello friends 🖐️ ，I'm NingBo Wang (https://komarev.com/ghpvc/?username=hqwangningbo&style=flat-square&color=brightgreen)
 The senior undergraduates who are studying hard, hope to be the envy of them at the end of graduation!
 - 🔭 I’m currently working at ChainX
 - 🌱 I’m currently learning `BlockChain` `Rust` and `Go`
