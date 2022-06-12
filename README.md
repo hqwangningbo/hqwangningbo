@@ -1,4 +1,4 @@
-### Hello friends 🖐️ ，I'm NingBo Wang (https://komarev.com/ghpvc/?username=hqwangningbo&style=flat-square&color=brightgreen)
+### Hello friends 🖐️ ，I'm NingBo Wang ![](https://komarev.com/ghpvc/?username=hqwangningbo&style=flat-square&color=brightgreen)
 The senior undergraduates who are studying hard, hope to be the envy of them at the end of graduation!
 - 🔭 I’m currently working at ChainX
 - 🌱 I’m currently learning `BlockChain` `Rust` and `Go`
