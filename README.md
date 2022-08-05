@@ -1,8 +1,10 @@
 ### Hello friends 🖐️ ，I'm NingBo Wang               ![](https://komarev.com/ghpvc/?username=hqwangningbo&style=flat-square&color=brightgreen)
 
+A fresh graduate who is keen on open source contributions, likes blockchain-related technologies, and wishes for world peace and a bright future.
+
 - 🔭 I’m currently working on Bifrost.
 - 🌱 I’m currently learning `BlockChain` `Rust` and `Go`.
-- 📫 How to reach me: 2536935847@qq.com(Email) or WNB2536935847(Wechat).
+- 📫 How to reach me: 2536935847@qq.com
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -25,7 +27,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Postman-ed7547?style=flat-square&logo=postman&logoColor=ffffff)](https://www.postman.com/)
 
-| <a href="https://github.com/hqwangningbo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hqwangningbo&show_icons=true&theme=radical&hide_border=true" alt="Ningbo Wang's github stats" /></a> | <a href="https://github.com/hqwangningbo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqwangningbo&layout=compact&hide_border=true&text_color=9ffef6&bg_color=000000" /></a> |
+| <a href="https://github.com/hqwangningbo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hqwangningbo&show_icons=true&theme=radical&hide_border=true" alt="Ningbo Wang's github stats" /></a> | <a href="https://github.com/hqwangningbo/blob/master/README.md"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqwangningbo&layout=compact&hide_border=true&text_color=9ffef6&bg_color=000000" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
