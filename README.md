@@ -2,7 +2,7 @@
 
 A fresh graduate who is keen on open source contributions, likes blockchain-related technologies, and wishes for world peace and a bright future.
 
-- 🔭 I’m currently working on Bifrost.
+- 🔭 I’m currently working on bifrost.
 - 🌱 I’m currently learning `BlockChain` `Rust` and `Go`.
 - 📫 How to reach me: 2536935847@qq.com
 <!--
