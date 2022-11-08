@@ -1,4 +1,7 @@
-### Hello friends 🖐️ ，I'm NingBo Wang               ![](https://komarev.com/ghpvc/?username=hqwangningbo&style=flat-square&color=brightgreen)
+<div  align="center">    
+  <h3>Hello friends 🖐️ ，I'm NingBo Wang<h3>
+   <img src="https://komarev.com/ghpvc/?username=hqwangningbo&style=flat-square&color=brightgreen"/>
+</div>
  
  <div  align="center">    
  <img src="https://user-images.githubusercontent.com/21078112/163754171-0e917f6d-22e9-4add-8705-b664d12949a6.gif" width = "300" height = "200" alt="图片名称" align=center />
