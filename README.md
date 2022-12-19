@@ -11,6 +11,10 @@
 
 A fresh graduate who is keen on open source contributions, likes blockchain-related technologies, and wishes for world peace and a bright future.
 
+#### Technology stack
+Blockchain enthusiast, Chain developer.
+Rust / Java / Go / Solidity
+    
 - 🔭 I’m currently working on `bifrost`.
 - 🌱 I’m currently learning `blockchain` `rust` and `go`.
 - 📫 How to reach me: `wechat:WNB2536935847` and `email:2536935847@qq.com`
