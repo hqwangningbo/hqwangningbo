@@ -9,7 +9,7 @@
 
 #### Personal profile
 
-Blockchain enthusiasts, Substrate chain developers, keen on open source contributions, hope for world peace.
+Blockchain enthusiast, Substrate chain developer, keen on open source contributions, hope for world peace.
 
 #### Technology stack
 Rust / Java / Go / Solidity
