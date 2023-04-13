@@ -9,10 +9,9 @@
 
 #### Personal profile
 
-A fresh graduate who is keen on open source contributions, likes blockchain-related technologies, and wishes for world peace and a bright future.
+Blockchain enthusiasts, Substrate chain developers, keen on open source contributions, hope for world peace.
 
 #### Technology stack
-Blockchain enthusiast, Chain developer.
 Rust / Java / Go / Solidity
     
 - 🔭 I’m currently working on `bifrost`.
