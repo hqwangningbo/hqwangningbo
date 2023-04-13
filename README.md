@@ -12,7 +12,7 @@
 Blockchain enthusiast, Substrate chain developer, keen on open source contributions, hope for world peace.
 
 #### Technology stack
-Rust / Java / Go / Solidity
+Rust / Java / Go / Solidity / Ts / React / Vue
     
 - 🔭 I’m currently working on `bifrost`.
 - 🌱 I’m currently learning `blockchain` `rust` and `go`.
