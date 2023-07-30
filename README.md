@@ -1,3 +1,4 @@
+![](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)
 <div  align="center">    
   <h3>Hello friends 🖐️ ，I'm NingBo Wang<h3>
    <img src="https://komarev.com/ghpvc/?username=hqwangningbo&style=flat-square&color=brightgreen"/>
