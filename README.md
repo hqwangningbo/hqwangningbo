@@ -16,7 +16,7 @@ Blockchain enthusiast, Substrate chain developer, keen on open source contributi
 Rust / Java / Go / Solidity / Ts / React / Vue
     
 - 🌱 I’m currently learning `Blockchain`.
-- 📫 How to reach me: `wechat:WNB2536935847` and `email:2536935847@qq.com`
+- 📫 How to reach me: `2536935847@qq.com`
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
